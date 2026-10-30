@@ -1,6 +1,6 @@
 ---
 name: capability-tree
-version: 0.1.0
+version: 0.1.1
 description: >
   Zeigt als Baum, welche Fähigkeiten von AIbex AIOS in einem Projektordner zur Verfügung stehen
   (Kette, Pakete, Assistent, Wissen, Regeln, registrierte Skills, Arbeitspferde, Kernel) und auf
